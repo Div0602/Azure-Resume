@@ -1,5 +1,7 @@
 # Azure-Resume
+
 My own Resume hosted on Azure cloud, following The Cloud Resume Challenge.
 
-- Front end folder has the website and images.
-- main.js file contains Visitor counter code.
+Front end folder has the website and images.
+main.js file contains Visitor counter code.
+Used Azure Cosmos DB to store the counter value.
